@@ -116,6 +116,3 @@ Buka `IR_System_Multi_Dataset.ipynb` dari folder proyek. Notebook berisi sumber 
 - Karena tidak menggunakan stemming atau model semantik, variasi imbuhan dan sinonim mungkin tidak selalu terhubung. Hal ini sesuai dengan lingkup minimal yang diwajibkan dalam instruksi UTS.
 - Skor cosine mengukur kemiripan leksikal pada representasi BoW, bukan kualitas atau kebenaran isi dokumen.
 
-## 9. Pembagian kerja tim
-
-Gunakan notebook `Panduan_Tim_dan_Presentasi.ipynb` untuk pembagian peran tiga anggota, penjelasan pipeline, alur demo, dan latihan tanya jawab. Ganti placeholder anggota dan nomor kelompok sebelum pengumpulan.
